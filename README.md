@@ -386,17 +386,3 @@ $(document).ready(function() {
 
 
 
-#### [demo/](https://github.com/colinbrogan/bigFastShopifyFilter)
-
-This link goes nowhere for now, soon it will be a Shopify theme preview, showing everything in action.
-
-## Team
-
-This plugin is built by Colin Brogan
-
-[![Colin Brogan](http://github.com/colinbrogan/)](http://cbrogan.info) 
-
-
-## License
-
-[MIT License](http://zenorocha.mit-license.org/) © Colin Brogan
